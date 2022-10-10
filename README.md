@@ -1,8 +1,10 @@
 # React Form
 Patika.dev Frontend eğitim serisi kapsamında React, Formik ve Yup kullanarak hazırlamış olduğum form örneği.
+ 
+Preview -> https://kolistawra.github.io/react-form
 
 
-[Preview](https://i.hizliresim.com/n23hjo8.png)
+![Preview](https://i.hizliresim.com/n23hjo8.png)
 
 
 # Getting Started with Create React App
