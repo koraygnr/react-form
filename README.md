@@ -1,3 +1,10 @@
+# React Form
+Patika.dev Frontend eğitim serisi kapsamında React, Formik ve Yup kullanarak hazırlamış olduğum form örneği.
+
+
+[Preview](https://i.hizliresim.com/n23hjo8.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
